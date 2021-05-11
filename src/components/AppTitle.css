@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'roundy';
+    src: local('roundy'), url(../fonts/youre_gone.ttf) format('truetype');
+    /* other formats include: 'woff2', 'truetype, 'opentype',
+                              'embedded-opentype', and 'svg' */
+}
+.roundy{
+    text-align: center;
+    font-family: roundy;
+    color: #35b5ff;
+    font-size: 12em;
+
+}
+.roundy-powered-by{
+    padding-top: 5vh;
+    text-align: center;
+    font-family: roundy;
+    color: #35b5ff;
+}

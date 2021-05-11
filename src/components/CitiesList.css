@@ -1,0 +1,9 @@
+.cities-list{
+    width: 45vw;
+}
+
+.city-item:hover{
+    background-color: #35b5ff;
+    color: white;
+    cursor: pointer;
+}

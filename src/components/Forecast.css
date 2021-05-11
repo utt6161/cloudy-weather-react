@@ -1,0 +1,31 @@
+/*@font-face {*/
+/*    font-family: 'segoeui';*/
+/*    src: local('segoeui'), url(../fonts/segoeui.ttf) format('truetype');*/
+/*    !* other formats include: 'woff2', 'truetype, 'opentype',*/
+/*                              'embedded-opentype', and 'svg' *!*/
+/*}*/
+
+.condition-logo{
+    margin-top: 1em;
+    margin-bottom: 1em;
+    height: 5em;
+    width: 5em;
+}
+
+.no-color{
+    filter: brightness(0) invert(1);
+}
+
+
+.current-panel{
+    color: white;
+    font-family: roundy;
+    background-color: #35b5ff;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 10px;
+}
+
+.current-temp{
+    font-size: 8em
+}
